@@ -50,21 +50,19 @@ Building scalable systems, exploring networks, and developing decentralized appl
 
 ## 📊 GitHub Stats
 
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=14shreyas04&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=14shreyas04&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shreyas-r-59383b2a9)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/ShreyasR.)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](YOUR_TRYHACKME)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/shreyas-R/)
 
 ---
 
