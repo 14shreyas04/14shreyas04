@@ -4,6 +4,8 @@
 
 Building scalable systems, exploring networks, and developing decentralized applications 🚀
 
+![](https://komarev.com/ghpvc/?username=14shreyas04&color=blue)
+
 ---
 
 ## 👨‍💻 About Me
