@@ -50,12 +50,6 @@ Building scalable systems, exploring networks, and developing decentralized appl
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=14shreyas04&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=14shreyas04&layout=compact)
-
 ---
 
 ## 🌐 Connect With Me
