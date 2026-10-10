@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shreyas R
 
-### 🌐 Networking Enthusiast | ☕ Java Backend Developer | ⛓️ Blockchain Developer
+### 🌐 Ethical Hacking | SOC | Networking Enthusiast | ☕ Java Backend Developer
 
 Building scalable systems, exploring networks, and developing decentralized applications 🚀
 
